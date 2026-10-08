@@ -11,6 +11,8 @@ stars = ['Sol',
          'Barnard',
          'Wolf 359']
 
+print("The third star is", stars[2])
+
 # Highest peak on each tectonic plate
 African = 'Kilimanjaro'
 Antarctic = 'Vinson'
