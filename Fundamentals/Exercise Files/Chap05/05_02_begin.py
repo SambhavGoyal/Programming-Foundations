@@ -1,6 +1,4 @@
 def say_hello():
-    print("Hello, friends!")
+    print("Yo Yo Yo!")
 
-say_hello()
-say_hello()
 say_hello()
