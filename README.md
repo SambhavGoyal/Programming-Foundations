@@ -17,4 +17,18 @@ The learning path ([Become a Programmer: Foundations](https://www.linkedin.com/l
 - [ ] Software Testing
 
 -----
+## Introduction and Programming Fundamentals
 
+- Basics of programming languages
+
+- Basics of variables
+
+- Basic Variable handling
+
+- Conditional Statements
+
+## Beyond the Fundamentals
+
+- Understanding basics of data handling
+
+- Collection Data Types: Lists, Dictionaries, etc.
