@@ -6,4 +6,7 @@ print("Hello world")
 
 # semantic error
 name = "Alice"
-print("Hello name")
+print("Hello name") 
+
+# The fact that semantic errors are difficult to find sometimes is they are not actually embedded issues, like name here may work as a string directly
+
